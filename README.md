@@ -1,4 +1,4 @@
-# frontend_mrgl
+# frontend
 
 A new Flutter project.
 
